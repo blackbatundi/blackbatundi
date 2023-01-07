@@ -25,13 +25,13 @@
   <tbody align="center">
     <tr>
       <td><a href="https://github.com/Cedric921/food-delivrery"><b>Quiz App</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Cedric921/GDA_QuizApp?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Cedric921/GDA_QuizApp?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Cedric921/GDA_QuizApp?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Cedric921/gda_admin_dashboard?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/blackbatundi/GDA_QuizApp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/blackbatundi/GDA_QuizApp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/blackbatundi/GDA_QuizApp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/blackbatundi/gda_admin_dashboard?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Cedric921/food-delivrery"><b>gda_admin_dashboard</b></a></td>
+      <td><a href="https://github.com/blackbatund/food-delivrery"><b>gda_admin_dashboard</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Cedric921/blog?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Cedric921/gda_admin_dashboard?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Cedric921/Task_tracker?style=flat-square&labelColor=343b41"/></td>
@@ -48,12 +48,12 @@
     align="left"
     width="45%"
     alt="My Stats"
-    src="https://github-readme-stats.vercel.app/api?username=Cedric921&show_icons=true&theme=radical"
+    src="https://github-readme-stats.vercel.app/api?username=blackbatundi&show_icons=true&theme=radical"
   />
   <img
     width="45%"
     alt="Top langs"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cedric921&show_icons=true&theme=radical&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackbatundi&show_icons=true&theme=radical&layout=compact"
   />
 </p>
 
@@ -62,13 +62,13 @@
     width="45%"
     height="200"
     alt="GitHub Streak Stats"
-    src="https://github-profile-trophy.vercel.app/?username=Cedric921&theme=radical&no-frame=true&column=3&row=2"
+    src="https://github-profile-trophy.vercel.app/?username=blackbatundi&theme=radical&no-frame=true&column=3&row=2"
   />
   <img
     width="45%"
     height="200"
     alt="GitHub Streak Stats"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Cedric921&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=blackbatundi&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44"
   />
 </p>
 
@@ -220,8 +220,8 @@
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{cedric921}/count.svg" alt="roland :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{blackbatundi}/count.svg" alt="roland :: Visitor's Count" /></p>
 
-[![cedric karungu's github activity graph](https://activity-graph.herokuapp.com/graph?username=cedric921&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/cedric921/github-readme-activity-graph)
+[![ben batundi's github activity graph](https://activity-graph.herokuapp.com/graph?username=blackbatundi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/blackbatundi/github-readme-activity-graph)
 <br/>
 <br/>

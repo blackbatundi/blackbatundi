@@ -1,12 +1,11 @@
-### Hi there 👋. Cedric KARUNGU
+### Hi there 👋. Benjamin Batundi
 
 
-- 🔭 I’m currently learning Nest.js and Next.js 
-- - 🔭 I’m currently use MERN stack
-- 🌱 I’m currently experimenting the web ecosystem
+- 🔭 I’m currently learning Flutter and Dart 
+- 🌱 I’m currently experimenting the Mobile ecosystem
 - 👯 I’m looking to collaborate on solving problems with software
-- 💬 Ask me about anything web-related, I might have a hint 
-- 📫 How to reach me: ckarungu921@gmail.com
+- 💬 Ask me about anything mobile-related, I might have a hint 
+- 📫 How to reach me: benbatundi7@gmail.com
 
 - ⚡ "*build your futur in technology*"
 

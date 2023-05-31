@@ -32,7 +32,7 @@
   <img
     width="45%"
     height="200"
-    alt="GitHub Streak Stats"
+    alt="GitHub Streak Status"
     src="https://github-profile-trophy.vercel.app/?username=blackbatundi&theme=radical&no-frame=true&column=3&row=2"
   />
   <img

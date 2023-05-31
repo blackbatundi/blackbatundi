@@ -12,13 +12,13 @@
 
 
 
-## My Github Stats
+## My Github Status
 
 <p>
   <img
     align="left"
     width="45%"
-    alt="My Stats"
+    alt="My Status"
     src="https://github-readme-stats.vercel.app/api?username=blackbatundi&show_icons=true&theme=radical"
   />
   <img
